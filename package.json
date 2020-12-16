@@ -1,0 +1,31 @@
+{
+  "name": "cheevos-bot",
+  "version": "1.0.0",
+  "description": "Cheevos bot for Captain at Sheeps Wool Harbor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "googleapis": "^43.0.0",
+    "loadash": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiniko/Chev-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shiniko/Chev-Bot/issues"
+  },
+  "homepage": "https://github.com/shiniko/Chev-Bot#readme"
+}
